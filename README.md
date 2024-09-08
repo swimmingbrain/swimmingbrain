@@ -23,17 +23,13 @@ September 2023 - Present
 ## 🛠️ Skills
 
 - **Electrical Engineering:**
-  - Circuit Design
-  - Control Systems
-  - Signal Processing
-  - Power Systems
+  - Circuit Design, Control Systems
+  - Signal Processing, Power Systems
   - Embedded Programming
 
 - **Business Informatics:**
-  - Business Process Management
-  - Data Analysis
-  - Software Development
-  - ERP Systems
+  - Business Process Management, Data Analysis
+  - Software Development, ERP Systems
 
 - **Languages:**
   - English (Fluent)
@@ -42,18 +38,19 @@ September 2023 - Present
   - Italian (Basic)
   - Korean (Basic)
 
-## 💼 Projects
-
-### 
-
 ## 🏆 Achievements
 
-- 
+
 
 
 ## 📬 Contact Me
 
-- 
+- **Email:** braian@plaku.dev
+- **Phone number:** +43 6818 1365426
+- **LinkedIn:** https://www.linkedin.com/in/braian-plaku/
+
+Test:
+[![Linkedin](https://www.flaticon.com/free-icon/linkedin_408703?term=linkedin&page=1&position=79&origin=search&related_id=408703)](https://www.linkedin.com/in/braian-plaku/)
 
 ---
 
