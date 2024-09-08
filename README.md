@@ -45,12 +45,11 @@ September 2023 - Present
 
 ## 📬 Contact Me
 
-- **Email:** braian@plaku.dev
-- **Phone number:** +43 6818 1365426
-- **LinkedIn:** https://www.linkedin.com/in/braian-plaku/
+[![Email Badge](https://img.shields.io/badge/Email-braian@plaku.dev-%23f7a1b3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braian@plaku.dev)
 
-Test:
-[![Linkedin](https://www.flaticon.com/free-icon/linkedin_408703?term=linkedin&page=1&position=79&origin=search&related_id=408703)](https://www.linkedin.com/in/braian-plaku/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-BraianPlaku-%235c9bce?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-plaku/)
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-@Braian.Plaku-%23fbbc05?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/braian.plaku)
 
 ---
 
