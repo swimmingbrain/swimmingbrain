@@ -14,9 +14,10 @@ Hello! I'm Braian, a dedicated and passionate student pursuing a double major in
 ## 🎓 Education
 
 ### University of Applied Sciences Vorarlberg
-**B.Sc. in Electrical Engineering**  
+**B.Sc. in Electrical Engineering**
+September 2022 - Present
 **B.Sc. in Wirtschaftsinformatik**  
-July 2022 - Present
+September 2023 - Present
 
 
 ## 🛠️ Skills
@@ -26,8 +27,9 @@ July 2022 - Present
   - Control Systems
   - Signal Processing
   - Power Systems
+  - Embedded Programming
 
-- **Wirtschaftsinformatik:**
+- **Business Informatics:**
   - Business Process Management
   - Data Analysis
   - Software Development
@@ -36,6 +38,8 @@ July 2022 - Present
 - **Languages:**
   - English (Fluent)
   - German (Native)
+  - Albanian (Native)
+  - Italian (Basic)
   - Korean (Basic)
 
 ## 💼 Projects
@@ -45,13 +49,6 @@ July 2022 - Present
 ## 🏆 Achievements
 
 - 
-
-## 🌐 Experience
-
-###
-
-## ✈️ Exchange Experience
-
 
 
 ## 📬 Contact Me
