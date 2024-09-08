@@ -1,6 +1,6 @@
 # 🌟 Braian Plaku - Electrical Engineering & Business Informatics Student
 
-![Profile Banner](images/github_banner)
+![Profile Banner](images/github_banner.jpg)
 
 ## 📚 About Me
 
