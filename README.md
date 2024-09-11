@@ -19,7 +19,7 @@ Hello! I'm Braian, a dedicated and passionate student pursuing a double major in
 **B.Sc. in Electrical Engineering**
 September 2022 - Present
 
-**B.Sc. in Wirtschaftsinformatik**  
+**B.Sc. in Business Informatics**  
 September 2023 - Present
 
 
