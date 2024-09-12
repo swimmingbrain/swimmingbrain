@@ -1,9 +1,10 @@
-<!--- Style for the table to look like the preview one -->
+<!--- 
 <style>
     tr:nth-child(odd) {
     background-color: #f6f6f6;
     }
 </style>
+-->
 
 ### Korean Population by Region
 * Total population: 51669716
