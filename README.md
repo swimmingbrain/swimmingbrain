@@ -2,6 +2,7 @@
 
 ![Profile Banner](images/github_banner.jpg)
 
+
 ## 📚 About Me
 
 Hello! I'm Braian, a dedicated and passionate student pursuing a double major in Electrical Engineering and Business Informatics. Currently, I'm on an exciting exchange semester in South Korea, where I'm immersing myself in a new culture while expanding my academic and professional horizons.
@@ -11,12 +12,14 @@ Hello! I'm Braian, a dedicated and passionate student pursuing a double major in
 - **Exchange University:** Seoul National University of Science and Technology
 - **Expected Graduation:** June 2025
 
+
 ## 🎓 Education
 
 ### University of Applied Sciences Vorarlberg
 **B.Sc. in Electrical Engineering**
 September 2022 - Present
-**B.Sc. in Wirtschaftsinformatik**  
+
+**B.Sc. in Business Informatics**  
 September 2023 - Present
 
 
@@ -37,10 +40,6 @@ September 2023 - Present
   - Albanian (Native)
   - Italian (Basic)
   - Korean (Basic)
-
-## 🏆 Achievements
-
-
 
 
 ## 📬 Contact Me
