@@ -1,4 +1,4 @@
-# 🌟 Braian Plaku - Electrical Engineering & Business Informatics Student
+# 🧠 Neuro-tap-tap-tap!
 
 ![Profile Banner](images/github_banner.jpg)
 
