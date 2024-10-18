@@ -1,4 +1,4 @@
-# 🧠 Neuro-tap-tap-tap!
+# 🧠 Welcome to my jar—where thoughts swim free!
 
 ![Profile Banner](images/github_banner.jpg)
 
