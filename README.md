@@ -44,7 +44,7 @@ September 2023 - Present
 
 ## 📬 Contact Me
 
-[![Email Badge](https://img.shields.io/badge/Email-braian@plaku.dev-%23f7a1b3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braian@plaku.dev)
+[![Email Badge](https://img.shields.io/badge/Email-braian.plaku@gmail.com-%23f7a1b3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braian.plaku@gmail.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-BraianPlaku-%235c9bce?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-plaku/)
 
