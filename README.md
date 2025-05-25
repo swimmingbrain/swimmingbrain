@@ -7,7 +7,7 @@
 
 Hello! I'm Braian, a dedicated and passionate student pursuing a double major in Electrical Engineering and Business Informatics. Currently, I'm on an exciting exchange semester in South Korea, where I'm immersing myself in a new culture while expanding my academic and professional horizons.
 
-- **Current Location:** South Korea
+- **Current Location:** Austria
 - **Home University:** University of Applied Sciences Vorarlberg
 - **Exchange University:** Seoul National University of Science and Technology
 - **Expected Graduation:** June 2025
