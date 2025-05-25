@@ -46,7 +46,7 @@ September 2023 - Present
 
 [![Email Badge](https://img.shields.io/badge/Email-braian.plaku@gmail.com-%23f7a1b3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braian.plaku@gmail.com)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-BraianPlaku-%235c9bce?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-plaku/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Braian.Plaku-%235c9bce?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-plaku/)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@Braian.Plaku-%23fbbc05?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/braian.plaku)
 
