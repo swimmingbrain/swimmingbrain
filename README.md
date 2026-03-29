@@ -31,7 +31,7 @@ I design and build deep learning pipelines, and imaging software for industrial 
 
 ### Side Quests
 
-| | |
+| &nbsp; | &nbsp; |
 |:--|:--|
 | **[texbrain](https://github.com/swimmingbrain/texbrain)** | Browser based LaTeX editor with live preview, real time collaboration, and git integration |
 | **[chingumat-e](https://github.com/swimmingbrain/chingumat-e)** | Open source foot controlled rhythm game |
