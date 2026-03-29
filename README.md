@@ -2,7 +2,7 @@
 
 ### Braian Plaku
 
-Machine vision engineer at [Blum](https://www.blum.com) · M.Sc. Artificial Intelligence at [JKU Linz](https://www.jku.at/)
+Machine vision engineer · M.Sc. Artificial Intelligence at [JKU Linz](https://www.jku.at/)
 
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:braian.plaku@gmail.com)&nbsp;
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=flat-square&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/braian-plaku/)&nbsp;
